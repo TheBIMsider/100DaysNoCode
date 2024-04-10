@@ -1,5 +1,7 @@
-A repository for my adventures with the 100 Days of No-Code Challenge
+# The 100 Days of No-Code
 
-What is the 100 Days of AI you ask? Well, it is free, fun and effective 30-minute bite-sized lessons delivered daily to guide your AI learning journey.
+A repository for my adventures with the [100 Days of No-Code Challenge]((https://www.100daysofnocode.com/)
 
-This is where I store the exercises or missions that need a "code" home. Even though the exercises are always AI and or No Code based, sometimes you need a place to store the code that AI-generated (or helped generate) for you, as you see below 👇
+What is the 100 Days of No-Code Challenge? Well its a free, fun and effective 30 minute bitesized lessons delivered daily to guide your no-code journey.
+
+This is where I store the exercises or missions that need a "code" home. Even though the exercises are always No-Code based, sometimes you need a place to store the code that's AI-generated (or helped generate) for you, as you see below 👇
