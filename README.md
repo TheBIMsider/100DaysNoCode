@@ -1,6 +1,6 @@
 # The 100 Days of No-Code
 
-A repository for my adventures with the [100 Days of No-Code Challenge]((https://www.100daysofnocode.com/)
+A repository for my adventures with the [100 Days of No-Code Challenge](https://www.100daysofnocode.com/)
 
 What is the 100 Days of No-Code Challenge? Well its a free, fun and effective 30 minute bitesized lessons delivered daily to guide your no-code journey.
 
